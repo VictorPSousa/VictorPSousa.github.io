@@ -1,2 +1,2 @@
-# VictorPSousa.github.io
-My personal portfolio to show my projects
+# VictorPSousa Portfolio
+Personal portfolio to show my projects

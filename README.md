@@ -1,2 +1,2 @@
 # VictorPSousa Portfolio
-Personal portfolio to show my projects
+My personal portfolio/CV to show my projects.
